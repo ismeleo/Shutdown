@@ -107,7 +107,7 @@
 			this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(0);
 			this.tableLayoutPanel1.Name = "tableLayoutPanel1";
 			this.tableLayoutPanel1.RowCount = 2;
-			this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 95F));
+			this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 100F));
 			this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle());
 			this.tableLayoutPanel1.Size = new System.Drawing.Size(394, 133);
 			this.tableLayoutPanel1.TabIndex = 1;
@@ -121,7 +121,7 @@
 			this.tabCtrl.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
 			this.tabCtrl.Name = "tabCtrl";
 			this.tabCtrl.SelectedIndex = 0;
-			this.tabCtrl.Size = new System.Drawing.Size(386, 85);
+			this.tabCtrl.Size = new System.Drawing.Size(386, 90);
 			this.tabCtrl.TabIndex = 0;
 			// 
 			// tab1
@@ -177,7 +177,7 @@
 			this.tab2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
 			this.tab2.Name = "tab2";
 			this.tab2.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-			this.tab2.Size = new System.Drawing.Size(378, 52);
+			this.tab2.Size = new System.Drawing.Size(378, 57);
 			this.tab2.TabIndex = 1;
 			this.tab2.Text = "Count Down";
 			this.tab2.UseVisualStyleBackColor = true;
@@ -192,7 +192,7 @@
 			this.flowLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.flowLayoutPanel3.Location = new System.Drawing.Point(4, 5);
 			this.flowLayoutPanel3.Name = "flowLayoutPanel3";
-			this.flowLayoutPanel3.Size = new System.Drawing.Size(370, 42);
+			this.flowLayoutPanel3.Size = new System.Drawing.Size(370, 47);
 			this.flowLayoutPanel3.TabIndex = 0;
 			// 
 			// label2
@@ -266,7 +266,7 @@
 			this.flowLayoutPanel2.Controls.Add(this.rbShutdown);
 			this.flowLayoutPanel2.Controls.Add(this.btnConfirm);
 			this.flowLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.flowLayoutPanel2.Location = new System.Drawing.Point(3, 98);
+			this.flowLayoutPanel2.Location = new System.Drawing.Point(3, 103);
 			this.flowLayoutPanel2.Name = "flowLayoutPanel2";
 			this.flowLayoutPanel2.Size = new System.Drawing.Size(388, 33);
 			this.flowLayoutPanel2.TabIndex = 1;
