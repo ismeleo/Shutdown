@@ -69,12 +69,12 @@
 			// 
 			this.toolStripContainer1.ContentPanel.Controls.Add(this.tableLayoutPanel1);
 			this.toolStripContainer1.ContentPanel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-			this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(394, 133);
+			this.toolStripContainer1.ContentPanel.Size = new System.Drawing.Size(394, 144);
 			this.toolStripContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.toolStripContainer1.Location = new System.Drawing.Point(0, 0);
 			this.toolStripContainer1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
 			this.toolStripContainer1.Name = "toolStripContainer1";
-			this.toolStripContainer1.Size = new System.Drawing.Size(394, 180);
+			this.toolStripContainer1.Size = new System.Drawing.Size(394, 191);
 			this.toolStripContainer1.TabIndex = 0;
 			this.toolStripContainer1.Text = "toolStripContainer1";
 			// 
@@ -107,9 +107,9 @@
 			this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(0);
 			this.tableLayoutPanel1.Name = "tableLayoutPanel1";
 			this.tableLayoutPanel1.RowCount = 2;
-			this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 100F));
+			this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 105F));
 			this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle());
-			this.tableLayoutPanel1.Size = new System.Drawing.Size(394, 133);
+			this.tableLayoutPanel1.Size = new System.Drawing.Size(394, 144);
 			this.tableLayoutPanel1.TabIndex = 1;
 			// 
 			// tabCtrl
@@ -121,7 +121,7 @@
 			this.tabCtrl.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
 			this.tabCtrl.Name = "tabCtrl";
 			this.tabCtrl.SelectedIndex = 0;
-			this.tabCtrl.Size = new System.Drawing.Size(386, 90);
+			this.tabCtrl.Size = new System.Drawing.Size(386, 95);
 			this.tabCtrl.TabIndex = 0;
 			// 
 			// tab1
@@ -177,7 +177,7 @@
 			this.tab2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
 			this.tab2.Name = "tab2";
 			this.tab2.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
-			this.tab2.Size = new System.Drawing.Size(378, 57);
+			this.tab2.Size = new System.Drawing.Size(378, 62);
 			this.tab2.TabIndex = 1;
 			this.tab2.Text = "Count Down";
 			this.tab2.UseVisualStyleBackColor = true;
@@ -192,7 +192,7 @@
 			this.flowLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.flowLayoutPanel3.Location = new System.Drawing.Point(4, 5);
 			this.flowLayoutPanel3.Name = "flowLayoutPanel3";
-			this.flowLayoutPanel3.Size = new System.Drawing.Size(370, 47);
+			this.flowLayoutPanel3.Size = new System.Drawing.Size(370, 52);
 			this.flowLayoutPanel3.TabIndex = 0;
 			// 
 			// label2
@@ -266,7 +266,7 @@
 			this.flowLayoutPanel2.Controls.Add(this.rbShutdown);
 			this.flowLayoutPanel2.Controls.Add(this.btnConfirm);
 			this.flowLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.flowLayoutPanel2.Location = new System.Drawing.Point(3, 103);
+			this.flowLayoutPanel2.Location = new System.Drawing.Point(3, 108);
 			this.flowLayoutPanel2.Name = "flowLayoutPanel2";
 			this.flowLayoutPanel2.Size = new System.Drawing.Size(388, 33);
 			this.flowLayoutPanel2.TabIndex = 1;
@@ -313,7 +313,7 @@
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(394, 180);
+			this.ClientSize = new System.Drawing.Size(394, 191);
 			this.Controls.Add(this.toolStripContainer1);
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
 			this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
